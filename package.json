@@ -1,0 +1,21 @@
+{
+  "name": "gulp-practice",
+  "version": "1.0.0",
+  "description": "test gulp with dart sass set up",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-tylek-hero/gulp-practice.git"
+  },
+  "author": "Thomas Tylek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomas-tylek-hero/gulp-practice/issues"
+  },
+  "homepage": "https://github.com/thomas-tylek-hero/gulp-practice#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
